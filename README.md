@@ -179,5 +179,6 @@
 # 无指令: fsou
 ^https:\/\/duckduckgo\.com\/\?q=([^&]+) https://fsoufsou.com/search?q=$1 302
 
+#
 [MITM]
 hostname = %APPEND% duckduckgo.com
