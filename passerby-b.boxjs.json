@@ -3,7 +3,7 @@
   "name": "passerby-b脚本订阅",
   "author": "@passerby-b",
   "icon": "https://portrait.gitee.com/uploads/avatars/user/2721/8163312_passerby-b_1605061011.png",
-  "repo": "https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json",
+  "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
   "apps": [
     {
       "id": "jddj_fruit",
@@ -30,8 +30,8 @@
         "https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png"
       ],
       "author": "@passerby-b",
-      "repo": "https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js"
+      "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
+      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_fruit.js"
     },
     {
       "id": "jddj_bean",
@@ -58,8 +58,8 @@
         "https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png"
       ],
       "author": "@passerby-b",
-      "repo": "https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js"
+      "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
+      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_bean.js"
     },
     {
       "id": "jddj_plantBeans",
@@ -86,8 +86,8 @@
         "https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png"
       ],
       "author": "@passerby-b",
-      "repo": "https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js"
+      "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
+      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_plantBeans.js"
     },
     {
       "id": "jddj_getPoints",
@@ -114,8 +114,8 @@
         "https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png"
       ],
       "author": "@passerby-b",
-      "repo": "https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js"
+      "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
+      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_getPoints.js"
     },
     {
       "id": "jddj_fruit_collectWater",
@@ -142,8 +142,8 @@
         "https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png"
       ],
       "author": "@passerby-b",
-      "repo": "https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js"
+      "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
+      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_getPoints.js"
     },
     {
       "id": "dyjs",
