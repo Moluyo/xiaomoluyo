@@ -31,7 +31,7 @@
       ],
       "author": "@passerby-b",
       "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_fruit.js"
+      "script": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/jddj_fruit.js"
     },
     {
       "id": "jddj_bean",
@@ -59,7 +59,7 @@
       ],
       "author": "@passerby-b",
       "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_bean.js"
+      "script": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/jddj_bean.js"
     },
     {
       "id": "jddj_plantBeans",
@@ -87,7 +87,7 @@
       ],
       "author": "@passerby-b",
       "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_plantBeans.js"
+      "script": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/jddj_plantBeans.js"
     },
     {
       "id": "jddj_getPoints",
@@ -115,7 +115,7 @@
       ],
       "author": "@passerby-b",
       "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_getPoints.js"
+      "script": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/jddj_getPoints.js"
     },
     {
       "id": "jddj_fruit_collectWater",
@@ -143,7 +143,7 @@
       ],
       "author": "@passerby-b",
       "repo": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/passerby-b.boxjs.json",
-      "script": "https://raw.githubusercontent.com/q1161347/JDDJ/main/jddj_getPoints.js"
+      "script": "https://raw.githubusercontent.com/Moluyo/xiaomoluyo/main/jddj_getPoints.js"
     },
     {
       "id": "dyjs",
